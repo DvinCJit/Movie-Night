@@ -1,6 +1,6 @@
-# gatsby-starter-gcn
+# Movie Night
 
-A starter template to build amazing static websites with Gatsby, Contentful and Netlify. Inspired by [gatsby-contentful-starter](https://github.com/contentful-userland/gatsby-contentful-starter).
+Test site modified from gatsby-starter-gcn.
 
 ## Features
 
@@ -22,7 +22,7 @@ A starter template to build amazing static websites with Gatsby, Contentful and 
 
 https://gcn.netlify.com/
 
-![](screenshots/demo.jpg)
+![](screenshots/movie-night.png)
 
 ## Getting Started
 
@@ -182,5 +182,3 @@ GOOGLE_ANALYTICS
 
 - If you make edits to your Contentful space while running `yarn develop` you will need to stop it and rerun the command to see the changes reflected. For example a new post or page will not automatically show up until the website has been rebuilt.
 - **DO NOT** store your Contentful access tokens or space ids anywhere in GitHub. Treat them like passwords.
-# Movie-Night
-# Movie-Night
