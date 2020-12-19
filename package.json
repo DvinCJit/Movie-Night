@@ -4,6 +4,9 @@
   "version": "2.1.3",
   "repository": "https://github.com/ryanwiemer/gatsby-starter-gcn",
   "author": "Ryan Wiemer <ryan@ryanwiemer.com>",
+  "resolutions": {
+    "sharp": "0.24.0"
+  },
   "dependencies": {
     "@emotion/core": "^10.0.27",
     "@emotion/styled": "^10.0.27",
