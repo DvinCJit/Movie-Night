@@ -1,6 +1,6 @@
 # Movie Night
 
-Test site modified from gatsby-starter-gcn.
+Test site modified from [gatsby-starter-gcn](https://github.com/ryanwiemer/gatsby-starter-gcn.git).
 
 ## Features
 
