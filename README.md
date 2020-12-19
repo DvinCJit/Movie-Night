@@ -20,7 +20,7 @@ Test site modified from gatsby-starter-gcn.
 
 ## Demo
 
-https://gcn.netlify.com/
+https://movie-night-reviews.netlify.app/
 
 ![](screenshots/movie-night.png)
 
